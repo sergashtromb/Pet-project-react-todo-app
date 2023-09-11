@@ -1,0 +1,30 @@
+
+#right_menu {
+    position: fixed;
+    top: 90px;
+    left: 0px;
+    height: 100%;
+    width: 280px;
+    background-color: #006D77;
+    color: #FFDDD2;
+    font-size: 20px;
+    font-weight: 580;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+ul li button {
+    color: #FFDDD2;
+    font-size: 20px;
+    font-weight: 580;
+    background-color: #ffffff00;
+    border: 0px;
+    padding: 20px 20px;
+}
+
+ul li button:hover {
+    color: #ab8e84;
+    transition: 0.5s;
+}
