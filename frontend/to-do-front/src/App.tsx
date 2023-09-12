@@ -5,6 +5,7 @@ import './styles/App.css';
 
 import Header from './Components/Header.jsx'
 import RightMenu from './Components/RightMenu';
+import Content from './Components/Content';
 
 function App() {
   return (
@@ -14,6 +15,8 @@ function App() {
 
       <RightMenu />
 
+      <Content />
+      
     </div>
   );
 }
