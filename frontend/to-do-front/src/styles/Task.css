@@ -1,8 +1,16 @@
 .task {
     color: #FFDDD2;
     background-color: #006D77;
-    padding: 10px 20px;
+    padding: 10px;
     border-radius: 10px;
-    margin-bottom: 20px;
-    width: 300px;
+    margin: 5px;
+    /* margin-bottom: 10px; */
+    width: 400px;
+    min-width: 200px;
+    font-size: 15px;
+    line-height: 0.6em;
+}
+
+.task h3 {
+    padding: 0px;
 }
